@@ -11,7 +11,7 @@ Builded upon the popular MVVM architecture and naturally this brought introducin
 - [Bond](https://github.com/DeclarativeHub/Bond)
 - [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 - [KingFisher](https://github.com/onevcat/Kingfisher)
-- [CocoaaPods](https://github.com/CocoaPods/CocoaPods)
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 
 
 ### Usage
