@@ -4,7 +4,7 @@ Utilizes the [New York Times API](https://developer.nytimes.com)
 
 Builded upon the popular MVVM architecture and naturally this brought introducing reactive programming paradigm.
 
-### Tech stack used: 
+### Tech stack: 
 
 - [Moya](https://github.com/Moya/Moya)
 - [ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit)
@@ -13,6 +13,8 @@ Builded upon the popular MVVM architecture and naturally this brought introducin
 - [KingFisher](https://github.com/onevcat/Kingfisher)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 
+- Xcode 9.4.1
+- Swift 4.1
 
 ### Usage
 
