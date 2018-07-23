@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CollectionViewDataSource.collectionView(_:cellForItemAt:):CollectionViewDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionViewModels">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GalleryViewModel.getTopStories():GalleryViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static TopStoriesResponseMapping.map(_:):TopStoriesResponseMapping.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ResponseMappingUtil.map(_:):ResponseMappingUtil.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GalleryViewController.bindViewModel():GalleryViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static ResponseMappingUtil.map(_:):ResponseMappingUtil.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
