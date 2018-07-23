@@ -13,6 +13,8 @@ Builded upon the popular MVVM architecture and naturally this brought introducin
 - [KingFisher](https://github.com/onevcat/Kingfisher)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 
+- Xcode 9.4.1
+- Swift 4.1
 
 ### Usage
 
