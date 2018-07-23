@@ -1,6 +1,6 @@
 # ReactiveMVVMSample (WIP)
 
-This sample app utilizes the [NewYorkTimes API](newyorktimesapi)
+This sample app utilizes the [NewYorkTimes API](https://developer.nytimes.com)
 
 Builded upon the popular MVVM architecture and naturally this brought introducing reactive programming paradigm.
 
