@@ -1,10 +1,10 @@
 # ReactiveMVVMSample (WIP)
 
-This sample app utilizes the [New York Times API](https://developer.nytimes.com)
+Utilizes the [New York Times API](https://developer.nytimes.com)
 
 Builded upon the popular MVVM architecture and naturally this brought introducing reactive programming paradigm.
 
-### Tech stack used in this sample: 
+### Tech stack used: 
 
 - [Moya](https://github.com/Moya/Moya)
 - [ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit)
