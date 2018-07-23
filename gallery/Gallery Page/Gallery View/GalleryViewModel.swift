@@ -15,14 +15,9 @@ import Bond
 
 import ObjectMapper
 
-/*
-	fileprivate is used in some code parts to comply with Swift 3, too.
-*/
-
 final class GalleryViewModel {
 	
-	// in Swift 4, private is preferred here.
-	fileprivate let disposeBag: DisposeBag
+	private let disposeBag: DisposeBag
 	
 	// Injectable
 	public var collectionViewModels: Observable<[CollectionViewModel]>
@@ -41,8 +36,7 @@ final class GalleryViewModel {
 
 extension GalleryViewModel {
 	
-	// in Swift 4, private is preferred here.
-	fileprivate func getTopStories () {
+	private func getTopStories () {
 		MoyaProvider<NewYorkTimesAPI>().request(.topStories(.home)) { [weak self] result in
 			guard let strongSelf = self else { return }
 			

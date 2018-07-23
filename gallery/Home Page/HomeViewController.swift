@@ -10,7 +10,7 @@ import UIKit
 
 final class HomeViewController: UIViewController {
 
-	fileprivate let viewModel: HomeViewModel
+	private let viewModel: HomeViewModel
 	
 	init(viewModel: HomeViewModel) {
 		

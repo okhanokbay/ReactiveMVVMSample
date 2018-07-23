@@ -15,7 +15,7 @@ fileprivate let topStoriesAPIPath = "/topstories"
 fileprivate let apiVersion = "/v2"
 fileprivate let responseFormat = ".json"
 
-fileprivate let apiKey = API_KEY_HERE
+fileprivate let apiKey = "2fa6c786f04f40c1b03864cce5b3841e"
 
 public enum TopStorySection: String {
 	// We can write all categories here as a new case.
